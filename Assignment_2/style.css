@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-size: 25pt;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(2, 1, 12);
+    text-align: center;
+    text-decoration: underline;
+}
+
+table {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 1px solid black;
+    font-size: 11pt;
+    font-style: normal;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    text-decoration: underline;
+    font-size: large;
+}
