@@ -26,7 +26,7 @@ table {
     font-size: large;
 }
 
-input[type=text], select,input[type=email],input[type=date] {
+input[type=text], select,input[type=email]{
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -44,5 +44,12 @@ textarea {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+}
+
+label{
+    position: large;
+    top:15px;
+    width: 200px;
+    float: left;
 }
 
